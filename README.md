@@ -16,7 +16,6 @@ This project is an interactive simulation suite designed to demonstrate and anal
 
 ## Technologies Used
 - Python
-- (Add any other tools you used)
 
 ## Author
 Kanishka
